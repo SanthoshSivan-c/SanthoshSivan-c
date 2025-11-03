@@ -12,9 +12,9 @@
 ![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=santhosh-sivan&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-sivan&layout=compact&theme=tokyonight)
 
-## 🏆 Achievements
-![trophy](https://github-profile-trophy.vercel.app/?username=santhosh-sivan&theme=dracula)
 
 ## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/santhosh-sivan)
-[![Email](https://img.shields.io/badge/Email-santhosh123%40gmail.com-red)](mailto:santhosh123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/santhosh-sivan-c-67662b322)
+[![Email](https://img.shields.io/badge/Email-santhoshsivan77821@gmail.com-red)](mailto:santhoshsivan7781@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-https://santhoshsivan-portfolio-ten.vercel.app/-white)](https://santhoshsivan-portfolio-ten.vercel.app/)
+
