@@ -6,7 +6,16 @@
 ## 🛠️ Tech Stack
 - **Languages:** Java, SQL, JavaScript
 - **Frameworks:** Spring Boot, Hibernate
-- **Tools:** Git, Postman, Postgresql, VSCODE
+- **Tools:** Git, Postman, Postgresql, VScode
+
+  ## 💼 Featured Projects
+
+- [💰 Expense Tracker (Spring Boot + PostgreSQL)](https://github.com/SanthoshSivan-c/ExpenseTracker)  
+  REST API-based app to manage and categorize personal expenses with user authentication.
+
+- [📚 Student Management System](https://github.com/SanthoshSivan-c/ToDo-List-With-SpringBoot)  
+  A CRUD-based Spring Boot project a simple ToD0 List.
+
 
   ## 🔗 Connect with Me
 
