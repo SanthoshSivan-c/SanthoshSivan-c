@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Santhosh Sivan
 
-<!--
-**SanthoshSivan-c/SanthoshSivan-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Java and Spring Boot developer passionate about backend development and databases.  
+💡 I enjoy solving coding problems and building real-world projects like expense trackers.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Java, SQL, JavaScript
+- **Frameworks:** Spring Boot, Hibernate
+- **Tools:** Git, Maven, Postman, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=santhosh-sivan&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santhosh-sivan&layout=compact&theme=tokyonight)
+
+## 🏆 Achievements
+![trophy](https://github-profile-trophy.vercel.app/?username=santhosh-sivan&theme=dracula)
+
+## 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/santhosh-sivan)
+[![Email](https://img.shields.io/badge/Email-santhosh123%40gmail.com-red)](mailto:santhosh123@gmail.com)
